@@ -1,0 +1,41 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.pr1{
+    padding-top: 80px;
+}
+
+header {
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+  }
+
+  header #logo {
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    float: right;
+    height: 50px;
+    width: 210px;
+    margin-left: 1%;
+}
+
+.ods{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
